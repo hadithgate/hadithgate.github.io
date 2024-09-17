@@ -1,2 +1,0 @@
-window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
-gtag("set","linker",{"domains":["nabawi.tv"]});gtag("js",new Date());gtag("set","developer_id.dZTNiMT",!0);gtag("config","G-7B0BGH3BLL")

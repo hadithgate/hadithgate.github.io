@@ -1,1 +1,0 @@
-var url=window.location.origin+'?ob=open-bridge';fbq('set','openbridge','1423334488580926',url)
